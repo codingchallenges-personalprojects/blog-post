@@ -1,4 +1,4 @@
-# An app for creating/ adding post, deleting post and using gapi for signin/ signout
+# An app for creating/adding posts, deleting posts & user sign-in/sign-out using google OAuth api
 
 https://blog-post-app-react.netlify.app/
 
