@@ -1,3 +1,9 @@
+# An app for creating/ adding post, deleting post and using gapi for signin/ signout
+
+https://blog-post-app-react.netlify.app/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## App URL
